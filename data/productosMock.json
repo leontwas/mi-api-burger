@@ -4,7 +4,7 @@
     "nombre": "Doble Delicia",
     "descripcion": "Doble carne con queso y panceta",
     "precio": 4500,
-    "imagen": "../images/01_tasty.png",
+    "imagen": "/images/01_tasty.png",
     "estado": "disponible"
   },
   {
@@ -12,7 +12,7 @@
     "nombre": "Clásica Suprema",
     "descripcion": "Hamburguesa con lechuga, tomate y mayonesa",
     "precio": 3900,
-    "imagen": "../images/02_double.png",
+    "imagen": "/images/02_double.png",
     "estado": "disponible"
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "BBQ Crunch",
     "descripcion": "Carne ahumada, salsa BBQ y aros de cebolla",
     "precio": 4700,
-    "imagen": "../images/03_onion.png",
+    "imagen": "/images/03_onion.png",
     "estado": "disponible"
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Veggie Eggplant",
     "descripcion": "Berenjena grillada, queso cheddar y alioli",
     "precio": 4000,
-    "imagen": "../images/04_cheddar_tasty.png",
+    "imagen": "/images/04_cheddar_tasty.png",
     "estado": "disponible"
   },
   {
@@ -36,7 +36,7 @@
     "nombre": "Spicy Inferno",
     "descripcion": "Carne con jalapeños, salsa picante y cheddar",
     "precio": 4600,
-    "imagen": "../images/05_bq_bacon.png",
+    "imagen": "/images/05_bq_bacon.png",
     "estado": "disponible"
   },
   {
@@ -44,7 +44,7 @@
     "nombre": "Cheddar Lovers",
     "descripcion": "Triple cheddar con carne doble y panceta",
     "precio": 4800,
-    "imagen": "../images/06-quater_cucumber.png",
+    "imagen": "/images/06-quater_cucumber.png",
     "estado": "disponible"
   },
   {
@@ -52,7 +52,7 @@
     "nombre": "Criolla Burger",
     "descripcion": "Carne, huevo frito, jamón, queso y papas pay",
     "precio": 5000,
-    "imagen": "../images/07_Delight.png",
+    "imagen": "/images/07_Delight.png",
     "estado": "disponible"
   },
   {
@@ -60,7 +60,7 @@
     "nombre": "La Suavecita",
     "descripcion": "Hamburguesa simple con cheddar y kétchup",
     "precio": 3600,
-    "imagen": "../images/08_triple.png",
+    "imagen": "/images/08_triple.png",
     "estado": "disponible"
   },
   {
@@ -68,7 +68,7 @@
     "nombre": "Aguacate Boom",
     "descripcion": "Carne con guacamole, queso y tomate",
     "precio": 4300,
-    "imagen": "../images/09_eggplant.png",
+    "imagen": "/images/09_eggplant.png",
     "estado": "disponible"
   },
   {
@@ -76,7 +76,7 @@
     "nombre": "Cebolla Caramel",
     "descripcion": "Carne, cebolla caramelizada y queso suizo",
     "precio": 4400,
-    "imagen": "../images/10_double_green_cheddar.png",
+    "imagen": "/images/10_double_green_cheddar.png",
     "estado": "disponible"
   },
   {
@@ -92,7 +92,7 @@
     "nombre": "Mediterránea",
     "descripcion": "Carne, tomate seco, rúcula y queso feta",
     "precio": 4500,
-    "imagen": "../images/12_bacon_big.png",
+    "imagen": "/images/12_bacon_big.png",
     "estado": "disponible"
   }
 ]
