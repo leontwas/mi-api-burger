@@ -6,7 +6,7 @@
   "precio": 4500,
   "imagen": "/images/01_fuego_infernal.png",
   "estado": "disponible",
-  "picanteNivel": 5
+  "nivel_picante": 5
 },
 {
   "id": "2",
@@ -15,7 +15,7 @@
   "precio": 3900,
   "imagen": "/images/02_explosion_cayena.png",
   "estado": "disponible",
-  "picanteNivel": 3
+  "nivel_picante": 3
 },
 {
   "id": "3",
@@ -24,7 +24,7 @@
   "precio": 4700,
   "imagen": "/images/03_bocado_diablo.png",
   "estado": "disponible",
-  "picanteNivel": 1
+  "nivel_picante": 1
 },
 {
   "id": "4",
@@ -33,7 +33,7 @@
   "precio": 4000,
   "imagen": "/images/04_incendio_azul.png",
   "estado": "disponible",
-  "picanteNivel": 1
+  "nivel_picante": 1
 },
 {
   "id": "5",
@@ -42,7 +42,7 @@
   "precio": 4600,
   "imagen": "/images/05_spicy_inferno.png",
   "estado": "disponible",
-  "picanteNivel": 4
+  "nivel_picante": 4
 },
  {
   "id": "6",
@@ -51,7 +51,7 @@
   "precio": 4800,
   "imagen": "/images/06_bomba_wasabi.png",
   "estado": "disponible",
-  "picanteNivel": 5
+  "nivel_picante": 5
 },
 {
   "id": "7",
@@ -60,7 +60,7 @@
   "precio": 5000,
   "imagen": "/images/07_aliento_dragon.png",
   "estado": "disponible",
-  "picanteNivel": 3
+  "nivel_picante": 3
 },
 {
   "id": "8",
@@ -69,7 +69,7 @@
   "precio": 3600,
   "imagen": "/images/08_pura_candela.png",
   "estado": "disponible",
-  "picanteNivel": 2
+  "nivel_picante": 2
 },
 {
   "id": "9",
@@ -78,7 +78,7 @@
   "precio": 4300,
   "imagen": "/images/09_lava_ardiente.png",
   "estado": "disponible",
-  "picanteNivel": 4
+  "nivel_picante": 4
 },
 {
   "id": "10",
@@ -87,7 +87,7 @@
   "precio": 4400,
   "imagen": "/images/10_infierno_verde.png",
   "estado": "disponible",
-  "picanteNivel": 3
+  "nivel_picante": 3
 },
 {
   "id": "11",
@@ -96,7 +96,7 @@
   "precio": 4900,
   "imagen": "/images/11_muerte_picante.png",
   "estado": "disponible",
-  "picanteNivel": 2
+  "nivel_picante": 2
 },
 {
   "id": "12",
@@ -105,6 +105,6 @@
   "precio": 4500,
   "imagen": "/images/12_tormenta_roja.png",
   "estado": "disponible",
-  "picanteNivel": 2
+  "nivel_picante": 2
 }
 ]
