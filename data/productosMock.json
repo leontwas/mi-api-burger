@@ -6,7 +6,7 @@
   "precio": 4500,
   "imagen": "/images/01_fuego_infernal.png",
   "estado": "disponible",
-  "nivel_picante": 5
+  "nivel_picante": 4
 },
 {
   "id": "2",
@@ -51,7 +51,7 @@
   "precio": 4800,
   "imagen": "/images/06_bomba_wasabi.png",
   "estado": "disponible",
-  "nivel_picante": 5
+  "nivel_picante": 4
 },
 {
   "id": "7",
