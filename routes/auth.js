@@ -11,7 +11,7 @@ router.post('/login', (req, res) => {
   const { usuario, contraseña } = req.body;
 
   // Validación muy básica. Ideal: usar base de datos y bcrypt.
-  if (usuario === 'admin@gmail.com' && contraseña === 'admin1234') {
+  if (usuario === 'admin@gmail.com' && contraseña === '123456') {
     const token = jwt.sign({ usuario }, process.env.JWT_SECRET, { expiresIn: '1h' });
     return res.json({ token });
   }
